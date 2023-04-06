@@ -1,1 +1,4 @@
 Flask
+pickle
+numpy 
+pandas
